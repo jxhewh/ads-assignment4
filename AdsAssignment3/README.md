@@ -31,7 +31,7 @@ Represents a directed connection between two vertices.
 
 ### `Graph`
 The core class that stores the graph structure using an adjacency list
-- Internally uses `HashMap<Integer, List<Integer>>` — each vertex ID maps to a list of neighbor IDs.
+- Internally uses `HashMap<Integer, List<Integer>>` each vertex ID maps to a list of neighbor IDs.
 - Methods: `addVertex(Vertex v)`, `addEdge(int from, int to)`, `printGraph()`, `bfs(int start)`, `dfs(int start)`
 
 #### Why Adjacency List?
