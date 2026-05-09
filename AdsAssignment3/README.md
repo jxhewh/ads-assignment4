@@ -109,10 +109,10 @@ Graphs were generated with a fixed random seed for reproducibility. Each vertex 
 
 Screenshots are located in `docs/screenshots/`
 
-- `![img.png](img.png)` — output of `printGraph()` for the small graph
-- `![img_1.png](img_1.png)` — BFS traversal order on small graph
-- `![img_2.png](img_2.png)` — DFS traversal order on small graph
-- `![img_3.png](img_3.png)` — final performance comparison table
+- `![img.png](img.png)` -output of `printGraph()` for the small graph
+- `![img_1.png](img_1.png)` -BFS traversal order on small graph
+- `![img_2.png](img_2.png)` - DFS traversal order on small graph
+- `![img_3.png](img_3.png)` - final performance comparison table
 
 ---
 
