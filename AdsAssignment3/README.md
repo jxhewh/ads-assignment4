@@ -49,9 +49,9 @@ Entry point of the program. Creates a small manual graph (10 vertices) to demons
 
 ## C. Algorithm Descriptions
 
-### BFS — Breadth-First Search
+### BFS (Breadth-First Search)
 
-Step-by-step:
+Step by step:
 1. Add the start vertex to a queue and mark it as visited.
 2. While the queue is not empty:
    - Dequeue the front vertex.
@@ -67,9 +67,9 @@ Time Complexity: O(V + E) every vertex and every edge is visited once.
 
 ---
 
-### DFS — Depth-First Search
+### DFS (Depth-First Search)
 
-Step-by-step:
+Step  by step:
 1. Start at the source vertex, mark it as visited, and print it.
 2. Recursively visit each unvisited neighbor.
 3. Backtrack when no unvisited neighbors remain.
